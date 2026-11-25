@@ -22,3 +22,37 @@
 * **प्रतिक्रियेसाठी / वाचनासाठी:** [Pratilipi प्रोफाइल](https://pratilipi.app.link/fim02jXPR7b)
 * **अपडेट्ससाठी:** [WhatsApp चॅनेल](https://whatsapp.com/channel/0029Vb9XgeKDjiOej44Jlq1l)
 * **सर्व रिपॉझिटरीज:** [GitHub प्रोफाइल](https://github.com/prashantG-star)
+<section id="projects">
+  <h2>माझे GitHub प्रोजेक्ट्स आणि लेखन दुवे</h2>
+
+  <ul>
+    <li>
+      <strong>Novel &amp; Story Writing Toolkit</strong> — कथा आणि कादंबरी लेखनासाठी Markdown आराखडा.
+      <a href="https://github.com/prashantG-star/novel-writing-toolkit" target="_blank" rel="noopener">प्रोजेक्ट पहा</a>
+    </li>
+    <li>
+      <strong>नवशिक्या लेखकांसाठी डिजिटल पब्लिशिंग हँडबुक</strong> — डिजिटल प्रकाशन आणि वाचकवृद्धी चेकलिस्ट.
+      <a href="https://github.com/prashantG-star/indie-writer-digital-handbook" target="_blank" rel="noopener">प्रोजेक्ट पहा</a>
+    </li>
+    <li>
+      <strong>भारतीय खाद्यसंस्कृती आणि स्थानिक पदार्थ ज्ञानकोश</strong> — पारंपरिक पदार्थ व खाद्यसंस्कृती नोंदी.
+      <a href="https://github.com/prashantG-star/regional-food-heritage-notes" target="_blank" rel="noopener">प्रोजेक्ट पहा</a>
+    </li>
+    <li>
+      <strong>डिजिटल साक्षरता व सुरक्षितता मार्गदर्शक</strong> — ऑनलाइन फसवणूक टाळणे व अकाउंट सुरक्षा.
+      <a href="https://github.com/prashantG-star/digital-literacy-and-safety-guide" target="_blank" rel="noopener">प्रोजेक्ट पहा</a>
+    </li>
+    <li>
+      <strong>Novel Food World (Google Sites)</strong> — अन्न आणि लेखन विश्व.
+      <a href="https://sites.google.com/view/novelfoodworld/home" target="_blank" rel="noopener">वेबपेज पहा</a>
+    </li>
+    <li>
+      <strong>Pratilipi</strong> — माझे कथा व लेखन साहित्य.
+      <a href="https://pratilipi.app.link/fim02jXPR7b" target="_blank" rel="noopener">प्रोफाइल पहा</a>
+    </li>
+    <li>
+      <strong>WhatsApp चॅनेल</strong> — ताज्या नोंदी आणि अपडेट्स.
+      <a href="https://whatsapp.com/channel/0029Vb9XgeKDjiOej44Jlq1l" target="_blank" rel="noopener">चॅनेल पहा</a>
+    </li>
+  </ul>
+</section>
